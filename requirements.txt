@@ -1,0 +1,7 @@
+chess
+zstandard
+pandas
+numpy
+matplotlib
+pyarrow
+requests

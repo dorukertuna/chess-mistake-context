@@ -1,0 +1,41 @@
+{
+  "source": "https://database.lichess.org/standard/lichess_db_standard_rated_2025-02.pgn.zst",
+  "balance": "type",
+  "target": 300000,
+  "quota_per_class": 100000,
+  "scanned": 9964189,
+  "kept": 300000,
+  "rejected": {
+    "no computer analysis": 8857115,
+    "bot": 15910,
+    "not bullet/blitz/rapid": 172412,
+    "starting clock 15s or less": 1780,
+    "class already full": 317422
+  },
+  "by_type_and_elo_class": {
+    "bullet|1": 7345,
+    "bullet|2": 13320,
+    "bullet|3": 18531,
+    "bullet|4": 20897,
+    "bullet|5": 18477,
+    "bullet|6": 15009,
+    "bullet|7": 4863,
+    "bullet|8": 1558,
+    "blitz|1": 7824,
+    "blitz|2": 13236,
+    "blitz|3": 18590,
+    "blitz|4": 20326,
+    "blitz|5": 18334,
+    "blitz|6": 13403,
+    "blitz|7": 7115,
+    "blitz|8": 1172,
+    "rapid|1": 9697,
+    "rapid|2": 16074,
+    "rapid|3": 21865,
+    "rapid|4": 22792,
+    "rapid|5": 18439,
+    "rapid|6": 9647,
+    "rapid|7": 1459,
+    "rapid|8": 27
+  }
+}

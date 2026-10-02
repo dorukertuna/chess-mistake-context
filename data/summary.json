@@ -1,0 +1,19 @@
+{
+  "games": 300000,
+  "moves": 19488698,
+  "moves_in_opening": 1506401,
+  "moves_in_endgame": 2934089,
+  "moves_in_time_pressure": 932366,
+  "moves_analysed": 14555569,
+  "mistakes_cpl_100_plus": 2770659,
+  "dropped_already_decided": 156455,
+  "repercussions_merged": 332804,
+  "events_by_category": {
+    "mistake": 1090009,
+    "shock_sig": 806220,
+    "shock_nonsig": 385171
+  },
+  "shocks_per_game": 3.971303333333333,
+  "events_with_post_window": 1957782,
+  "unbalanced_classes": 29
+}

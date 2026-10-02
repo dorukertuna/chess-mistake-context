@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.DS_Store
+data/full300k/
+data/pilot9k*/
+data/openings/

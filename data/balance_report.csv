@@ -1,0 +1,40 @@
+classification,class,games,expected,deviation,unbalanced
+game type,bullet,100000,100000.0,0.0,False
+game type,blitz,100000,100000.0,0.0,False
+game type,rapid,100000,100000.0,0.0,False
+game type x elo class,bullet | class 1,7345,12500.0,-0.412,True
+game type x elo class,bullet | class 2,13320,12500.0,0.066,False
+game type x elo class,bullet | class 3,18531,12500.0,0.482,True
+game type x elo class,bullet | class 4,20897,12500.0,0.672,True
+game type x elo class,bullet | class 5,18477,12500.0,0.478,True
+game type x elo class,bullet | class 6,15009,12500.0,0.201,False
+game type x elo class,bullet | class 7,4863,12500.0,-0.611,True
+game type x elo class,bullet | class 8,1558,12500.0,-0.875,True
+game type x elo class,blitz | class 1,7824,12500.0,-0.374,True
+game type x elo class,blitz | class 2,13236,12500.0,0.059,False
+game type x elo class,blitz | class 3,18590,12500.0,0.487,True
+game type x elo class,blitz | class 4,20326,12500.0,0.626,True
+game type x elo class,blitz | class 5,18334,12500.0,0.467,True
+game type x elo class,blitz | class 6,13403,12500.0,0.072,False
+game type x elo class,blitz | class 7,7115,12500.0,-0.431,True
+game type x elo class,blitz | class 8,1172,12500.0,-0.906,True
+game type x elo class,rapid | class 1,9697,12500.0,-0.224,False
+game type x elo class,rapid | class 2,16074,12500.0,0.286,True
+game type x elo class,rapid | class 3,21865,12500.0,0.749,True
+game type x elo class,rapid | class 4,22792,12500.0,0.823,True
+game type x elo class,rapid | class 5,18439,12500.0,0.475,True
+game type x elo class,rapid | class 6,9647,12500.0,-0.228,False
+game type x elo class,rapid | class 7,1459,12500.0,-0.883,True
+game type x elo class,rapid | class 8,27,12500.0,-0.998,True
+game type x elo level,bullet | low,7345,25000.0,-0.706,True
+game type x elo level,bullet | medium,52748,25000.0,1.11,True
+game type x elo level,bullet | high,38349,25000.0,0.534,True
+game type x elo level,bullet | top,1558,25000.0,-0.938,True
+game type x elo level,blitz | low,7824,25000.0,-0.687,True
+game type x elo level,blitz | medium,52152,25000.0,1.086,True
+game type x elo level,blitz | high,38852,25000.0,0.554,True
+game type x elo level,blitz | top,1172,25000.0,-0.953,True
+game type x elo level,rapid | low,9697,25000.0,-0.612,True
+game type x elo level,rapid | medium,60731,25000.0,1.429,True
+game type x elo level,rapid | high,29545,25000.0,0.182,False
+game type x elo level,rapid | top,27,25000.0,-0.999,True
